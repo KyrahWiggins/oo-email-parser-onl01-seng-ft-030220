@@ -15,3 +15,4 @@ class EmailAddressParser
     email_addresses.split(/[,\s]+/).uniq
 
   end
+end
